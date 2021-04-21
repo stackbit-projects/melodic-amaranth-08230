@@ -3,7 +3,7 @@ module.exports = {
     resolve: "@geocine/gatsby-theme-organization",
     options: {
       organization: "geocine",
-      title: "Fullstack JavaScript Developer",
+      title: "TKCMP",
       url: "https://github.com/geocine"
     }
   }],
