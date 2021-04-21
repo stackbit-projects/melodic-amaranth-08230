@@ -4,7 +4,7 @@ module.exports = {
     options: {
       organization: "geocine",
       title: "TKCMP",
-      url: "chrisdk"
+      url: "chrisdk.crypto"
     }
   }],
 }
